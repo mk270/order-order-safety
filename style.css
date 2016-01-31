@@ -1,0 +1,11 @@
+.tweetticker-tweet_container {
+	display:none !important;
+}
+
+#tweetticker-container {
+	display:none !important;
+}
+
+div.container-fluid {
+    display:none !important;
+}

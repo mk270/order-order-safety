@@ -1,0 +1,13 @@
+{
+    "name": "Guido Fawkes Animation Blocker",
+    "manifest_version": 2,
+    "version": "1.2",
+    "description": "Disable distracting and intrusive marquee on Guido Fawkes blog",
+
+    "content_scripts": [
+        {
+            "matches": ["http://order-order.com/*"],
+            "css": ["style.css"]
+        }
+    ]
+}
