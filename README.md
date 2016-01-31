@@ -1,4 +1,5 @@
-Daily-Mail-Sidebar-Hider
-========================
+Guido Fawkes distraction remover
+================================
 
-Chrome extension for hiding the Daily Mail sidebar.
+Chrome extension for hiding the heavy animations on Guido Fawkes; based on
+Daily Mail sidebar hider.
